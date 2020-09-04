@@ -4,7 +4,7 @@ LABEL maintainer="EdwinBetanc0urt@outlook.com" \
 	description="ADempiere gRPC Acceser Server"
 
 ENV URL_REPO="https://github.com/erpcya/adempiere-gRPC-Server" \
-	BASE_VERSION="rt-15.6" \
+	BASE_VERSION="rt-15.8" \
 	BINARY_NAME="adempiere-gRPC-Server.zip"
 
 RUN mkdir -p /opt/Apps && \

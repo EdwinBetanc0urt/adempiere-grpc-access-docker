@@ -1,6 +1,8 @@
 ADempiere Access gRPC Docker Server
 =====================
 
+#### @DEPRECATED Replace with https://github.com/adempiere/adempiere-grpc-all-in-one-docker
+
 [Docker](https://www.docker.io/) file for trusted builds of [ADempiere gRPC Deploy](http://erpya.com/) on https://hub.docker.com/r/erpya/adempiere-grpc-access.
 
 You will need use a file with a structure like it: [access_connection.yaml](access_connection.yaml)
